@@ -4,19 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ae69a9e-2646-4e06-a340-5166c970a378" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6565ff70-bc37-4f2b-9eef-1482cd53d2a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java-I__Lab3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-I__Lab3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java-I__Lab4/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java-I__Lab4/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java-I__Lab5/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java-I__Lab5/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java-I__Lab5/src/RealEstateCommission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-I__Lab6/Java-I__Lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-I__Lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-I__Lab8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-I__Lab8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-I__Lab8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-I__Lab8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-I__Lab8/Java-I__Lab8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-I__Lab2/out/production/Java-I__Lab2/VariablesAndInputs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RockPaperScissors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-I__Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-I__Lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-I__Lab3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-I__Lab3/src/RockPaperScissors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java-I__Lab4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-I__Lab4/src/EmployeePayRoll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-I__Lab5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-I__Lab5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-I__Lab8/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +42,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2LNRgGFsvWJXrx3HJuA0ajryevD" />
+  <component name="ProjectId" id="2N0ickOLL9cDW67mBSbJpwf7tZf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,33 +52,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/udemb/IdeaProjects/Java-Course/Java-I__Lab3",
-    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RockPaperScissors" />
-      <module name="Java-I__Lab3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.RockPaperScissors" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2ae69a9e-2646-4e06-a340-5166c970a378" name="Changes" comment="" />
-      <created>1675709665934</created>
+      <changelist id="6565ff70-bc37-4f2b-9eef-1482cd53d2a3" name="Changes" comment="" />
+      <created>1678807484061</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675709665934</updated>
+      <updated>1678807484061</updated>
     </task>
     <servers />
   </component>
@@ -79,9 +76,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
