@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Course.iml" filepath="$PROJECT_DIR$/.idea/Java-Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-II__Lab3/Java-II__Lab3.iml" filepath="$PROJECT_DIR$/Java-II__Lab3/Java-II__Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-II__Lab4/Java-II__Lab4.iml" filepath="$PROJECT_DIR$/Java-II__Lab4/Java-II__Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-II__Lab5/Java-II__Lab5.iml" filepath="$PROJECT_DIR$/Java-II__Lab5/Java-II__Lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-II__Lab6/Java-II__Lab6.iml" filepath="$PROJECT_DIR$/Java-II__Lab6/Java-II__Lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-II__Lab7/Java-II__Lab7.iml" filepath="$PROJECT_DIR$/Java-II__Lab7/Java-II__Lab7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-I__Lab1/Java-I__Lab1.iml" filepath="$PROJECT_DIR$/Java-I__Lab1/Java-I__Lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-I__Lab10/Java-I__Lab10.iml" filepath="$PROJECT_DIR$/Java-I__Lab10/Java-I__Lab10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-I__Lab11/Java-I__Lab11.iml" filepath="$PROJECT_DIR$/Java-I__Lab11/Java-I__Lab11.iml" />

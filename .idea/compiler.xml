@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/Java-II__Lab8/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Java-II__Lab9" />
         <module name="Java-II__Lab1" />
+        <module name="Java-II__Lab11" />
+        <module name="Java-II__Lab2" />
+        <module name="Java-II__Lab12" />
+        <module name="Java-II__Lab10" />
       </profile>
     </annotationProcessing>
   </component>

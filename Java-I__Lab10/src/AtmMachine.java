@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -9,7 +8,7 @@ public class AtmMachine {
 
     public static void main(String[] args) {
 
-        for(int i=0; i < 10; i++){
+        for (int i = 0; i < 10; i++) {
             Account accountObj = new Account(i, 100.00);
             accountStorageHash.put(i, accountObj);
         }
@@ -18,7 +17,7 @@ public class AtmMachine {
             System.out.println(
                     """
                             |---------------------------------------------------|
-                            |          Welcome to Account Main ATM              |
+                            |          Welcome to Account Loan ATM              |
                             |pls enter your account ID: (hint its between 0-9)  |
                             |---------------------------------------------------|
                             """);
@@ -87,7 +86,8 @@ public class AtmMachine {
             System.out.println("|-------------------------------------------------------------------|");
         }
     }
-    public static  void WithdrawAccount(Map<Integer, Account> accToBeWithdrawn, int accId) {
+
+    public static void WithdrawAccount(Map<Integer, Account> accToBeWithdrawn, int accId) {
         Account acc = accToBeWithdrawn.get(accId);
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter withdrawal amount: ");
@@ -102,14 +102,15 @@ public class AtmMachine {
     }
 
     public static void DepositAccount(Map<Integer, Account> accToBeDeposited, int accId) {
-     Account acc = accToBeDeposited.get(accId);
-     Scanner scanner = new Scanner(System.in);
-     System.out.print("Enter Deposit Amount: ");
-     double depositAmount = scanner.nextDouble();
+        Account acc = accToBeDeposited.get(accId);
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter Deposit Amount: ");
+        double depositAmount = scanner.nextDouble();
 
-     acc.setBalance(acc.getBalance() + depositAmount);
-     System.out.println("Deposit successful. new balance: $" + acc.getBalance());
+        acc.setBalance(acc.getBalance() + depositAmount);
+        System.out.println("Deposit successful. new balance: $" + acc.getBalance());
     }
+
     public static void DisplayAllBankAccount(Map<Integer, Account> displayAccount) {
         System.out.println("|----------------------------------------------------------------------|");
         displayAccount.forEach((key, acc) -> System.out.println("|Key: " + key.hashCode() +
